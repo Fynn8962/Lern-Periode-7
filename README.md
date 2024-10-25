@@ -20,8 +20,8 @@ Ein Random Password generator der Benutzer nach PW-Länge und welche Zeichen die
 
 ### 25.10.204
 
-- [ ] Für den Password Generator mit HTML & CSS ein Overlay bauen.   
-- [ ] Die Funktione des Password Generator mit JS einfügen.
+- [ ] Für den Password Generator mittels HTML die Struktur der Webseite aufbauen.
+- [ ] Für den Password Generator mit CSS das design erstellen.
 
       
 &nbsp;
