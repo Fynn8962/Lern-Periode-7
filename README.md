@@ -20,10 +20,28 @@ Ein Random Password generator der Benutzer nach PW-Länge und welche Zeichen die
 
 ### 25.10.204
 
-- [ ] Für den Password Generator mittels HTML die Struktur der Webseite aufbauen.
-- [ ] Für den Password Generator mit CSS das design erstellen.
+- [x] Für den Password Generator mittels HTML die Struktur der Webseite aufbauen.
+- [x] Für den Password Generator mit CSS das design erstellen.
 
       
 &nbsp;
 
-**Heute habe ich**       
+**Heute habe ich**     
+Heute habe ich das Grundkonstrukt meiner Webseite gemacht mittels HTML und CSS. Es ist ein einfaches Fenster in der Mitte der Website in welchem die einzelnen inputs des Benutzers angenommen werden können und schlussendlich dan auch die ausgabe getätigt wird. Nächstes mal mache ich die Funktion des PW-Generator mittels JS.
+
+
+
+ &nbsp;
+ 
+ &nbsp;
+
+### 01.11.204
+
+- [ ] Mit JS die Funktion meines PW-Generators erstellen
+- [ ] Möglichkeit das Passwort zu bearbeiten hinzufügen
+- [ ] Möglichkeit zu darkmode zu wechseln und zurück hinzufügen
+- [ ] Experten Aufträge im Modul 294 abschliessen (LA_8428, ...)
+
+  &nbsp;
+
+**Heute habe ich**   
