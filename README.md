@@ -39,8 +39,8 @@ Heute habe ich das Grundkonstrukt meiner Webseite gemacht mittels HTML und CSS. 
 
 - [ ] Mit JS die Funktion meines PW-Generators erstellen
 - [ ] Möglichkeit das Passwort zu bearbeiten hinzufügen
-- [ ] Möglichkeit zu darkmode zu wechseln und zurück hinzufügen
-- [ ] Experten Aufträge im Modul 294 abschliessen (LA_8428, ...)
+- [ ] Im Modul 294 den auftrag LA_8423 fertig machen
+- [ ] Im Modul 294 den Auftrag LA_8450 Fertig machen
 
   &nbsp;
 
