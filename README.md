@@ -39,9 +39,28 @@ Heute habe ich das Grundkonstrukt meiner Webseite gemacht mittels HTML und CSS. 
 
 - [ ] Mit JS die Funktion meines PW-Generators erstellen
 - [ ] Möglichkeit das Passwort zu bearbeiten hinzufügen
-- [ ] Im Modul 294 den auftrag LA_8423 fertig machen
-- [ ] Im Modul 294 den Auftrag LA_8450 Fertig machen
+- [x] Im Modul 294 den auftrag LA_8423 fertig machen
+- [x] Im Modul 294 den Auftrag LA_8450 Fertig machen
 
   &nbsp;
 
-**Heute habe ich**   
+**Heute habe ich**  
+Heute habe ich zwei Aufträge zu JavaScript im Modul 294 abgeschlossen. Der eine Auftrag (8423) Handelte um DOM manipulation. Ich musste eine Searchbar machen in welcher ich nach Zitaten suchen kann. Da im Auftrag wenig beschrieben wurde und auch die verlinkten Videos nicht wirklich geholfen haben, habe ich sehr viel zeit damit verschwendet. Schlussendlich habe ich es aber geschafft und auch verstanden. Mir war es wichtig dies zu verstehen da heutzutage eine Searchbar Teil von jeder Website ist.
+
+
+
+ &nbsp;
+ 
+ &nbsp;
+
+### 08.11.204
+
+- [ ] Mit JS die Funktion meines PW-Generators erstellen
+- [ ] Möglichkeit das Passwort zu bearbeiten hinzufügen
+- [ ] Für den PW-Manager eine Kopier Funktion hinzufügen
+- [ ] Experten ziele für das Modul 294 machen (LA...)
+      
+
+  &nbsp;
+
+**Heute habe ich**  
