@@ -63,7 +63,7 @@ Heute habe ich zwei Aufträge zu JavaScript im Modul 294 abgeschlossen. Der eine
 
   &nbsp;
 
-**Heute habe ich** 
+**Heute habe ich**       
 Heute habe ich meinen PW-generator fertig gestellt. Ich hatte estwas Probleme
 mit der Funktionen das man das generierte PW nach dem generieren noch bearbeiten kann.
 Nachdem ich gegoogelt habe habe ich es jedoch schmell herausgefunden. Da ich als ich mit dem PW-Generator
