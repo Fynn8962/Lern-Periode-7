@@ -55,12 +55,16 @@ Heute habe ich zwei Aufträge zu JavaScript im Modul 294 abgeschlossen. Der eine
 
 ### 08.11.204
 
-- [ ] Mit JS die Funktion meines PW-Generators erstellen
-- [ ] Möglichkeit das Passwort zu bearbeiten hinzufügen
-- [ ] Für den PW-Manager eine Kopier Funktion hinzufügen
-- [ ] Experten ziele für das Modul 294 machen (LA...)
+- [x] Mit JS die Funktion meines PW-Generators erstellen
+- [x] Möglichkeit das Passwort zu bearbeiten hinzufügen
+- [x] Für den PW-Manager eine Kopier Funktion hinzufügen
+- [x] Experten ziele für das Modul 294 machen (LA...)
       
 
   &nbsp;
 
-**Heute habe ich**  
+**Heute habe ich** 
+Heute habe ich meinen PW-generator fertig gestellt. Ich hatte estwas Probleme
+mit der Funktionen das man das generierte PW nach dem generieren noch bearbeiten kann.
+Nachdem ich gegoogelt habe habe ich es jedoch schmell herausgefunden. Da ich als ich mit dem PW-Generator
+fetig war noch etwas zeit hatte habe ich noch Expertenziele und Erweiterte Ziele aus dem Moudl 294 (javascript) erledigt
