@@ -73,7 +73,7 @@ fetig war noch etwas zeit hatte habe ich noch Expertenziele und Erweiterte Ziele
  
  &nbsp;
 
-### 14.11.204
+### 15.11.204
 
 - [ ] Im Modul 294 den Auftrag 8429 zu CRUD nacholen.
 - [ ] Im Modul 294 den Auftrag 8460 zu Git nacholen.
