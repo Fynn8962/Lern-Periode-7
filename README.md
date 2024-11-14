@@ -68,3 +68,19 @@ Heute habe ich meinen PW-generator fertig gestellt. Ich hatte estwas Probleme
 mit der Funktionen das man das generierte PW nach dem generieren noch bearbeiten kann.
 Nachdem ich gegoogelt habe habe ich es jedoch schmell herausgefunden. Da ich als ich mit dem PW-Generator
 fetig war noch etwas zeit hatte habe ich noch Expertenziele und Erweiterte Ziele aus dem Moudl 294 (javascript) erledigt
+
+ &nbsp;
+ 
+ &nbsp;
+
+### 14.11.204
+
+- [ ] Im Modul 294 den Auftrag 8429 zu CRUD nacholen.
+- [ ] Im Modul 294 den Auftrag 8460 zu Git nacholen.
+- [ ] Im Modul 294 den Auftrag 8430 zu ClientSideRouting nachholen
+- [ ] IM Modul 294 den Auftrag 8472 zu JWT nachholen
+
+  &nbsp;
+
+**Heute habe ich**            
+.....
