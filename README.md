@@ -56,9 +56,10 @@ Heute habe ich zwei Aufträge zu JavaScript im Modul 294 abgeschlossen. Der eine
 ### 08.11.204
 
 - [x] Mit JS die Funktion meines PW-Generators erstellen
-- [x] Möglichkeit das Passwort zu bearbeiten hinzufügen
+- [x] Das Layout des PW-generator übersichtlicher machen.
 - [x] Für den PW-Manager eine Kopier Funktion hinzufügen
 - [x] Experten ziele für das Modul 294 machen (LA...)
+      
       
 
   &nbsp;
@@ -75,12 +76,28 @@ fetig war noch etwas zeit hatte habe ich noch Expertenziele und Erweiterte Ziele
 
 ### 15.11.204
 
-- [ ] Im Modul 294 den Auftrag 8429 zu CRUD nacholen.
-- [ ] Im Modul 294 den Auftrag 8460 zu Git nacholen.
+- [x] Im Modul 294 den Auftrag 8429 zu CRUD nacholen.
+- [x] Im Modul 294 den Auftrag 8460 zu Git nacholen.
 - [ ] Im Modul 294 den Auftrag 8430 zu ClientSideRouting nachholen
 - [ ] IM Modul 294 den Auftrag 8472 zu JWT nachholen
 
   &nbsp;
 
 **Heute habe ich**            
-.....
+Heute habe ich Aufträge aus dem Modul 294 nachgeholt, da ich in der letzten Lektion in diesem Modul die ganze Lektion an einem Auftrag festsaß, da etwas nicht funktioniert hatte. Der erste Auftrag war zu CRUD. Ich musste einen Node.js-Server erstellen. Das Installieren von Node.js hat etwas Zeit beansprucht und das Tutorial, dem man folgen sollte, war nicht gerade auf Anhieb klar, doch schlussendlich konnte ich die Umgebung erfolgreich einrichten. Anschliessend habe ich den Auftrag zu Git gemacht in welchem man sich über git Informiert und Git einrichtet. Ich habe noch spontan eine Änderung an meinen PW-Generator vorgenommen um Benutzerfehler abzufangen. Den zuvor wenn man keine Kriterien ausgewählt hatte wurde "undefind" ausgegeben, jetzt passiert einfach nichts.$
+
+
+ &nbsp;
+ 
+ &nbsp;
+
+### 22.11.204
+
+- [ ] Neues Projekt (Dartscheiben punktezähler/Dartzähler) planen (was genau muss alles vorhanden sein?)
+- [ ] Den HTML aufbau des punktezählers erstellen.
+- [ ] Das CSS layout erstellen (wo ist was, wie ist es für den Benutzer am angenehmsten?)
+- [ ] Mit CSS die Website schon grob schön designen (Farben, Schrift, schriftgrösse etc)
+
+  &nbsp;
+
+**Heute habe ich**   
