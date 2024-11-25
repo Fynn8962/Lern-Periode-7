@@ -93,10 +93,26 @@ Heute habe ich Aufträge aus dem Modul 294 nachgeholt, da ich in der letzten Lek
 
 ### 22.11.204
 
-- [ ] Neues Projekt (Dartscheiben punktezähler/Dartzähler) planen (was genau muss alles vorhanden sein?)
-- [ ] Den HTML aufbau des punktezählers erstellen.
+- [x] Neues Projekt (Dartscheiben punktezähler/Dartzähler) planen (was genau muss alles vorhanden sein?)
+- [x] Den HTML aufbau des punktezählers erstellen.
 - [ ] Das CSS layout erstellen (wo ist was, wie ist es für den Benutzer am angenehmsten?)
 - [ ] Mit CSS die Website schon grob schön designen (Farben, Schrift, schriftgrösse etc)
+
+  &nbsp;
+
+**Heute habe ich**   
+ich konnte nur kurz mit meinem Projekt anfangen da ich Auftrage nacholen musste die vorausetzung sind für weitere Aufgaben im Modul. Wehshalb diese von wichtiger priorität waren. z.B der Auftrag im Modul 294 in welchem ich den backend server einrichten musste, mit dem Programm Node.js und diesen dann mittels Lokalen Projekt mittels fetch benutzen. Der Andere Auftrag war Git einzurichten und mit einem GitLab repository zu verknüpfen. 
+
+
+ &nbsp;
+ 
+ &nbsp;
+
+### 29.11.204
+- [ ] Das CSS layout erstellen (wo ist was, wie ist es für den Benutzer am angenehmsten?)
+- [ ] Mit CSS die Website schon grob schön designen (Farben, Schrift, schriftgrösse etc)
+- [ ] OBA M346 weiterarbeiten (...)
+- [ ] Anfangen mit der funktion (JS) des Dartzählers
 
   &nbsp;
 
