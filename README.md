@@ -109,10 +109,11 @@ ich konnte nur kurz mit meinem Projekt anfangen da ich Auftrage nacholen musste 
  &nbsp;
 
 ### 29.11.204
-- [ ] Das CSS layout erstellen (wo ist was, wie ist es für den Benutzer am angenehmsten?)
-- [ ] Mit CSS die Website schon grob schön designen (Farben, Schrift, schriftgrösse etc)
-- [ ] OBA M346 weiterarbeiten (...)
-- [ ] Anfangen mit der funktion (JS) des Dartzählers
+- [ ] Für die LB im Modul 294 die Javascript Funktionen (text Filtern) fertig stellen
+- [ ] für die LB im Modul 294 die Website mit dem Server verbinden (API) 
+- [ ] für die LB im Modul 294 die Daten aus der API in die Website mit fetch einbinden
+- [ ] nächster Schrit, entweder JWT autheifizierung oder Client Side Routing...
+
 
   &nbsp;
 
