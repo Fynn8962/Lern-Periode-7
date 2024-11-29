@@ -109,12 +109,13 @@ ich konnte nur kurz mit meinem Projekt anfangen da ich Auftrage nacholen musste 
  &nbsp;
 
 ### 29.11.204
-- [ ] Für die LB im Modul 294 die Javascript Funktionen (text Filtern) fertig stellen
-- [ ] für die LB im Modul 294 die Website mit dem Server verbinden (API) 
-- [ ] für die LB im Modul 294 die Daten aus der API in die Website mit fetch einbinden
+- [x] Für die LB im Modul 294 die Javascript Funktionen (text Filtern) fertig stellen
+- [x] für die LB im Modul 294 die Website mit dem Server verbinden (API) 
+- [x] für die LB im Modul 294 die Daten aus der API in die Website mit fetch einbinden
 - [ ] nächster Schrit, entweder JWT autheifizierung oder Client Side Routing...
 
 
   &nbsp;
 
 **Heute habe ich**   
+heute habe ich grösstenteils am Modul 294 und dessen LB gearbeitet. Ich habe zuerst die gewisse Javascript Funktionen hinzugefügt. als Erstes habe ich eine Suchleiste integriert von welcher man nach den einträgen (in den JSON files) suchen kann. Anschliesend habe ich ein dropdown-Menü gemacht in welchem man die Anzeigestruktur der Liste manipulieren kann. Man kann auswählen zwischen Gewicht auf- absteigend und Leistung auf- absteigend. Dies ändert dann die Reihenfolge der Liste (Liste mit Autos).
