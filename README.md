@@ -118,7 +118,7 @@ ich konnte nur kurz mit meinem Projekt anfangen da ich Auftrage nacholen musste 
   &nbsp;
 
 **Heute habe ich**   
-heute habe ich grösstenteils am Modul 294 und dessen LB gearbeitet. Ich habe zuerst die gewisse Javascript Funktionen hinzugefügt. als Erstes habe ich eine Suchleiste integriert von welcher man nach den einträgen (in den JSON files) suchen kann. Anschliesend habe ich ein dropdown-Menü gemacht in welchem man die Anzeigestruktur der Liste manipulieren kann. Man kann auswählen zwischen Gewicht auf- absteigend und Leistung auf- absteigend. Dies ändert dann die Reihenfolge der Liste (Liste mit Autos).
+Heute habe ich grösstenteils am Modul 294 und dessen LB gearbeitet. Ich habe zuerst die gewisse Javascript Funktionen hinzugefügt. als Erstes habe ich eine Suchleiste integriert von welcher man nach den einträgen (in den JSON files) suchen kann. Anschliesend habe ich ein dropdown-Menü gemacht in welchem man die Anzeigestruktur der Liste manipulieren kann. Man kann auswählen zwischen Gewicht auf- absteigend und Leistung auf- absteigend. Dies ändert dann die Reihenfolge der Liste (Liste mit Autos).
 
 
  &nbsp;
@@ -126,6 +126,11 @@ heute habe ich grösstenteils am Modul 294 und dessen LB gearbeitet. Ich habe zu
  &nbsp;
 
 ### 08.12.204
+- [ ] An meinem Dartzähler Projekt weiterarbeiten (html und css ergänzen)
+- [ ] Bei meinem Darzähler mit Javascript die ganzen Funktionen einfügen (knöpfe usw)
+- [ ] Bei meinem Dartzähler weitere Funktionen wie (funktion zum addieren bzw subtrahieren der Punkte)
+- [ ] Advent of Code machen. 
+
 
 
 
