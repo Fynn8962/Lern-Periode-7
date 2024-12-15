@@ -126,8 +126,8 @@ Heute habe ich grösstenteils am Modul 294 und dessen LB gearbeitet. Ich habe zu
  &nbsp;
 
 ### 08.12.204
-- [ ] An meinem Dartzähler Projekt weiterarbeiten (html und css ergänzen)
-- [ ] Bei meinem Darzähler mit Javascript die ganzen Funktionen einfügen (knöpfe usw)
+- [x] An meinem Dartzähler Projekt weiterarbeiten (html und css ergänzen)
+- [x] Bei meinem Darzähler mit Javascript die ganzen Funktionen einfügen (knöpfe usw)
 - [ ] Bei meinem Dartzähler weitere Funktionen wie (funktion zum addieren bzw subtrahieren der Punkte)
 - [ ] Advent of Code machen. 
 
@@ -137,3 +137,22 @@ Heute habe ich grösstenteils am Modul 294 und dessen LB gearbeitet. Ich habe zu
   &nbsp;
 
 **Heute habe ich**   
+Ich hatte Probleme damit das die Website gut aussieht und das mir das Layout gefällt weshalb ich viel zu lange an Farbe, Schriftgrössen und Layout herumgebastelt habe. Als es dann (für mich) einigermassen Okey aussah habe ich angefangen die Funktionen zu Coden mittels Javascript. Das grösste Problem war das es automatisch zwischen den Spielern die man eingegeben hat Rotiert und das man Inputfehler die man gemacht hat wieder löschen konnte. Nächstes mal möchte ich die richtige abzählen von Punkten und regeln wie z.B doubble-out einfügen.
+
+
+
+ &nbsp;
+ 
+ &nbsp;
+
+### 22.12.204
+- [ ] Avent of Code die ersten 3
+- [ ] Advent of Code bis 6
+- [ ] Im Modul 450 Aufträge nachholen (LA_6950)
+- [ ] Im Modul 450 Aufträge nachholen (LA_6960)
+
+
+  &nbsp;
+
+**Heute habe ich**   
+ 
