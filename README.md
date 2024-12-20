@@ -153,4 +153,16 @@ Ich hatte Probleme damit das die Website gut aussieht und das mir das Layout gef
   &nbsp;
 
 **Heute habe ich**   
- 
+ Heute habe ich nur noch am AoC gearbeitet. Ich habe die ersten 3 Rätsel versucht. Die ersten 2 waren Einfach das 3 hatte ich kurz einen Denkfehler. Anschliessend habe ich versucht den Dartpunkte zähler zum laufen zu bringen was jedoch nicht klappte. Das Prohekt wurde mit der Zeit immer unübersichtlicher und ich finde mich in meinem eigenen Code nicht mehr zurecht. Es ist besser nochmal mit besserem Plan zu starten und nicht einfach darauf los zu Coden. Deshalb habe ich leider kein Projekt das vorzeigefertig ist.
+
+
+
+## Reflexion
+
+Vorallem am Afang dieser Lernateliers konnte ich gut Arbeiten wie z.B an meinem ersten Projekt dem Password generator, der zwar nicht wirklich komplex ist und auch nicht schwierig. trotzem war es eine gute Möglichkeit mich mit JS vertraut zu machen. Ich lernete grundlegende JavaScript funktionien die ich dan in der LB des Moudls 294 vertieft Anwenden konnte. Das zweite Projekt das ich parallel zur LB machen wollte ging nicht so gut und endete als Baustelle. Ich würde es gerne nochmal versuchen mit den Erfahrungen die ich gmeacht habe um die Fehler von Anfang an zu vermeiden. Ich musste auch im LernAtelier wieder an Modulaufträgen Arbeiten da wir 2 LB's in der gleichen Woche hatten. Somit habe ich viel and der LB gearbeitet für z.B das Modul 295 in welchem ich eine voll Funktionelle JS website machen musste. 
+
+
+##Fertiges Projekt
+
+<img src="https://github.com/Fynn8962/Lern-Periode-5/blob/main/GIF_Website.gif" alt="GIF zu Responsive Design" width="500" >
+Dies war mein Einstiegsprojekt. Es ist ein Simpler Passwordgenerator der je nach Konfiguration des Benutzers eine zufällige Zeichneabfolge ausgibt.
