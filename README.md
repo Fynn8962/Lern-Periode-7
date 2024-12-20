@@ -164,5 +164,5 @@ Vorallem am Afang dieser Lernateliers konnte ich gut Arbeiten wie z.B an meinem 
 
 ##Fertiges Projekt
 
-<img src="https://github.com/Fynn8962/Lern-Periode-5/blob/main/GIF_Website.gif" alt="GIF zu Responsive Design" width="500" >
+<img src="https://github.com/Fynn8962/Lern-Periode-7/blob/main/Präsentation1.gif" alt="GIF zu Responsive Design" width="500" >
 Dies war mein Einstiegsprojekt. Es ist ein Simpler Passwordgenerator der je nach Konfiguration des Benutzers eine zufällige Zeichneabfolge ausgibt.
