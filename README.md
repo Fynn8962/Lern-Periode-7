@@ -147,9 +147,7 @@ Ich hatte Probleme damit das die Website gut aussieht und das mir das Layout gef
 
 ### 22.12.204
 - [ ] Avent of Code die ersten 3
-- [ ] Advent of Code bis 6
-- [ ] Im Modul 450 Aufträge nachholen (LA_6950)
-- [ ] Im Modul 450 Aufträge nachholen (LA_6960)
+
 
 
   &nbsp;
